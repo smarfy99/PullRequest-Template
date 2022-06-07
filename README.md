@@ -1,6 +1,7 @@
 # PullRequest-Template
 PR or Issue 날릴 때 template
-- project 폴더 > .github 폴더 > PULL_REQUEST_TEMPLATE.md 파일 -> push, PR하면 자동으로 template 생성
+- project 폴더 > .github 폴더 > PULL_REQUEST_TEMPLATE.md 파일 
+  => push, PR하면 자동으로 template 생성
 - issue는 ISSUE_TEMPLATE.md
 
 ## What is this PR do?
